@@ -4,6 +4,9 @@
 ## Description
 
 ## Endpoints
+gameInfo(team) returns when a team is playing
+whosePlaying()  
+
 
 ## Resources
 
